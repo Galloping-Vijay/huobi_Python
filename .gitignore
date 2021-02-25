@@ -3,6 +3,7 @@ venv/
 
 ### Build File ###
 .idea/
+.history/
 build/
 dist/
 huobi_client.egg-info/
@@ -14,3 +15,6 @@ huobi/privateconfig.py
 
 ### Other ###
 .DS_Store
+
+### 个人数据
+#./huobi/privateconfig.py
